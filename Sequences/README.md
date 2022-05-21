@@ -1,3 +1,3 @@
 <h1> Welcome to Sequences! </h1>
-<p> The idea here is to use the template on your own as inspiration with your teacher.</p>
-<p> Learn how to use github here. </p>
+<p> Objective: The idea here is to use the provided sequence as a 'breath cue' based template as inspiration to create your own vinyasa sequence. From there, it is up to you. I suggest that you  work with your own teacher or with me, using github to collaborate on your own 'yoga code' via pull requests. I hope that you will find it's exactly what yogis needed to take their sequence collaboration to the next level.</p>
+<p> Learn how to use [GitHub Pages]([https://pages.github.com/](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)) </p>
