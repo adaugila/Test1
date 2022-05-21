@@ -6,4 +6,5 @@
  <p> Disclaimer: Nothing in this repository claims to be perfect or complete, and as a creator of this repository I remain a student and user/visitor commentary is welcome. All that I ask is that this work is used with respect to where yoga comes from and all inquiries come from a curious and hunrgry place.
 The goal of yoga is to find an easy seat for meditation, so while we collaborate and share - let us honor the traditions that which these ideas originate - our teachers.
   
-<p>Thank you for visiting!
+<p> From the creator,
+ Allison
