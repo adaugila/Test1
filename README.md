@@ -1,7 +1,7 @@
 <Header>
  <h1> Welcome</h1>
   <p>Thank you for visiting The Digital Yoga Studies Repository!</p>
- <p>In this repository, you will find a variety of resources for yoga enthusiasts and researchers available for anyone's use. This may include and is not limited to yoga sequences, images of poses both of humans (with their permission) and drawings, class plans, feedback and assessment forms, geospatial maps, literature and technology resources.</p>
+ <p>In this repository, you will find a variety of resources for yoga enthusiasts and researchers available for anyone's use. This may include and is not limited to yoga sequences, images both of humans (with their permission) and drawings of people in poses, class plans, feedback and assessment forms, geospatial maps, human anatomy content, literature and technology resources. Maybe a little chakra here and a subtle body there.</p>
 
  <b> <p> Disclaimer: </b> Nothing in this repository claims to be perfect or complete, and as the curator of this repository I remain a student. 
  </p> Respectful user/visitor commentary and contribution is welcome and expected. All that I ask is that this work is used with respect to where yoga comes from and all inquiries come from a curious and hunrgry place with gratitude to all teachers of a sacred tradition.
